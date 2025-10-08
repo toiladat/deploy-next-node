@@ -1,8 +1,6 @@
 module.exports = {
-  apps: [
-    {
-      name: 'Fastify',
-      script: 'npm run start'
-    }
-  ]
+  apps : [{
+    name   : "Test BE",
+    script : "npm run start"
+  }]
 }
